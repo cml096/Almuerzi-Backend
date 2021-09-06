@@ -1,19 +1,11 @@
-# Custom Build Example
+# Rest Api - Project Almuerzi
+Rest api desarrollada bajo la estructura Serverless, configurada en el entorno de desarrollo Node.js y su Framework Express, tambiénm se desarrolló una autenticación de usuario con jsonwebtoken.
 
-This directory is a brief example of using a Custom Build script that can be deployed with Vercel and zero configuration.
+## Built With
 
-## Deploy Your Own
+- body-parser
+- cors
+- express
+- jsonwebtoken
+- mongoose
 
-Deploy your own Custom Built project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/custom-build)
-
-_Live Example: https://custom-build.now-examples.now.sh_
-
-### How We Created This Example
-
-To get started deploying a Custom Built project with Vercel, you can use the [Vercel CLI](https://vercel.com/download) to initialize the project:
-
-```shell
-$ vercel init custom-build
-```
